@@ -1,1 +1,1 @@
-# rafinn_privacy
+# gojaunt_privacy
